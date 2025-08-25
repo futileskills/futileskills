@@ -1,1 +1,1 @@
-![My GitHub Stats](https://github-readme-stats-six-phi-55.vercel.app/api?username=futileskills&show_icons=true&theme=onedark&hide=stars,prs,issues)
+![My GitHub Stats](https://github-readme-stats-six-phi-55.vercel.app/api?username=futileskills&show_icons=true&theme=onedark)
